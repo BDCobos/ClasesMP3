@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88c27b07-5699-4c89-81da-d952e6296488" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExercicisUF1" beforeDir="false" afterPath="$PROJECT_DIR$/../ExercicisUF1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBootCamp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ehb9EMkPq1ir95TPevrLsMDOj4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "last_directory_selection": "/home/alumne/IdeaProjects/DAM 22-23/MP03 - Progamació/ExercicisClase/Primera/src/main/java",
+    "last_opened_file_path": "/home/alumne/IdeaProjects/DAM 22-23/MP03 - Progamació/ExercicisClase/Primera",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BugEntersTextos">
+    <configuration name="Boolea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nf1.Boolea" />
+      <module name="Primera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nf1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BugEntersTextos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nf1.BugEntersTextos" />
+      <module name="Primera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nf1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cadenes5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nf2.Cadenes5" />
+      <module name="Primera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nf2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cadenes6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nf2.Cadenes6" />
+      <module name="Primera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nf2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cadenes7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nf2.Cadenes7" />
+      <module name="Primera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nf2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BugEntersTextos" />
+        <item itemvalue="Application.Boolea" />
+        <item itemvalue="Application.Cadenes7" />
+        <item itemvalue="Application.Cadenes6" />
+        <item itemvalue="Application.Cadenes5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88c27b07-5699-4c89-81da-d952e6296488" name="Changes" comment="" />
+      <created>1663050611302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663050611302</updated>
+      <workItem from="1663050613029" duration="6810000" />
+      <workItem from="1663221897756" duration="4555000" />
+      <workItem from="1663240163320" duration="608000" />
+      <workItem from="1663360739560" duration="30000" />
+      <workItem from="1663461385087" duration="163000" />
+      <workItem from="1663654705727" duration="6326000" />
+      <workItem from="1663667903340" duration="11000" />
+      <workItem from="1663670304768" duration="437000" />
+      <workItem from="1663830010300" duration="1756000" />
+      <workItem from="1663832586836" duration="203000" />
+      <workItem from="1665039458643" duration="4197000" />
+      <workItem from="1666003991843" duration="4368000" />
+      <workItem from="1666008882023" duration="577000" />
+      <workItem from="1666087540750" duration="30000" />
+      <workItem from="1666087848686" duration="18000" />
+      <workItem from="1666246128214" duration="6297000" />
+      <workItem from="1666655850390" duration="92000" />
+      <workItem from="1666681862732" duration="1876000" />
+      <workItem from="1666772990772" duration="8000" />
+      <workItem from="1666793281647" duration="262000" />
+      <workItem from="1667173441436" duration="615000" />
+      <workItem from="1667432246215" duration="3890000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

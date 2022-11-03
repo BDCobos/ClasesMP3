@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="deb1affb-fb6b-487f-b709-70fd4ba62379" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ExercicisUF1/src/main/java/Exercici12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicisUF1/src/main/java/Exercici12Bis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicisUF1/src/main/java/Exercici28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicisUF1/src/main/java/Exercisi12Tris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicisUF1/src/main/java/Nf2/Exercici5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicisUF1/src/main/java/dados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExercicisUF1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExercicisUF1/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2H0yESerJf9wgJlNzyXgX8OU90q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/alumne/IdeaProjects/DAM 22-23/MP03 - Progamació/ClasesMP3"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="deb1affb-fb6b-487f-b709-70fd4ba62379" name="Changes" comment="" />
+      <created>1667436183948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667436183948</updated>
+      <workItem from="1667436185050" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
