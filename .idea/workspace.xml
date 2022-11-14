@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deb1affb-fb6b-487f-b709-70fd4ba62379" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ExercicisUF1/src/main/java/Exercici12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicisUF1/src/main/java/Exercici12Bis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicisUF1/src/main/java/Exercici28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicisUF1/src/main/java/Exercisi12Tris.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicisUF1/src/main/java/Nf2/Exercici5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicisUF1/src/main/java/dados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExercicisUF1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExercicisUF1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primera/src/main/java/nf2/MaximMinim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primera/src/main/java/nf3/Vectors1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primera/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Primera/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/alumne/IdeaProjects/DAM 22-23/MP03 - Progamació/ClasesMP3"
+    "last_opened_file_path": "/home/alumne/IdeaProjects/DAM 22-23/MP03 - Progamació/ClasesMP3/Primera"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -54,6 +51,8 @@
       <option name="presentableId" value="Default" />
       <updated>1667436183948</updated>
       <workItem from="1667436185050" duration="44000" />
+      <workItem from="1667826177552" duration="30000" />
+      <workItem from="1668426336434" duration="627000" />
     </task>
     <servers />
   </component>
