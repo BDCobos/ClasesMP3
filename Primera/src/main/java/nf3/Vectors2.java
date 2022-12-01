@@ -30,5 +30,6 @@ public class Vectors2
         {
             System.out.println(vector[i]);
         }
+        ent.skip("[\r\n]*").nextLine();
     }
 }
